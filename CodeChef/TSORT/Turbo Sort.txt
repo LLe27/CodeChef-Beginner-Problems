@@ -15,6 +15,7 @@ Input:
 6
 7
 1
+
 Output:
 1
 3
